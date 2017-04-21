@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 08:52:40 +0000    44687 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 08:52:40 +0000     1074 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 08:52:40 +0000     7444 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 08:52:40 +0000     6426 bytes  lib/Cache.coffee</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 08:52:40 +0000     8647 bytes  lib/Cache.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 08:52:40 +0000     4139 bytes  lib/stores/RedisStore.coffee</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 08:52:40 +0000      938 bytes  package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 08:52:40 +0000    12495 bytes  spec/CacheSpec.coffee</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 08:52:40 +0000      871 bytes  test/basicSpec.coffee</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 08:52:40 +0000       97 bytes  test/config.coffee</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 08:52:40 +0000     1125 bytes  test/incDecSpec.coffee</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 08:52:40 +0000      989 bytes  test/rememberingSpec.coffee</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 08:52:40 +0000      442 bytes  test/timedSpec.coffee</tspan>
+</text>
+</svg>
